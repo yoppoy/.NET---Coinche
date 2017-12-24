@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "DOT_cardGames_2017/1.0.0": {
+        "runtime": {
+          "DOT_cardGames_2017.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DOT_cardGames_2017/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

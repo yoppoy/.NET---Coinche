@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Common.Logging" Version="3.4.1" />
+    <PackageReference Include="CommonSerializer.Newtonsoft.Json" Version="1.1.1" />
+    <PackageReference Include="Mina" Version="2.0.11" />
+  </ItemGroup>
+</Project>

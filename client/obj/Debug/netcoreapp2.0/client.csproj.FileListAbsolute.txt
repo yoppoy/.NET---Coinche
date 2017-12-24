@@ -1,0 +1,12 @@
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\bin\Debug\netcoreapp2.0\client.dll.config
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\bin\Debug\netcoreapp2.0\client.deps.json
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\bin\Debug\netcoreapp2.0\client.runtimeconfig.json
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\bin\Debug\netcoreapp2.0\client.runtimeconfig.dev.json
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\bin\Debug\netcoreapp2.0\client.dll
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\bin\Debug\netcoreapp2.0\client.pdb
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\obj\Debug\netcoreapp2.0\client.csprojResolveAssemblyReference.cache
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\obj\Debug\netcoreapp2.0\client.csproj.CoreCompileInputs.cache
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\obj\Debug\netcoreapp2.0\client.AssemblyInfoInputs.cache
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\obj\Debug\netcoreapp2.0\client.AssemblyInfo.cs
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\obj\Debug\netcoreapp2.0\client.dll
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\client\obj\Debug\netcoreapp2.0\client.pdb

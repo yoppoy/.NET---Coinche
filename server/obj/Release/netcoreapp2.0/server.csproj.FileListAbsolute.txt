@@ -1,0 +1,11 @@
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\server\obj\Release\netcoreapp2.0\server.csprojResolveAssemblyReference.cache
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\server\obj\Release\netcoreapp2.0\server.csproj.CoreCompileInputs.cache
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\server\obj\Release\netcoreapp2.0\server.AssemblyInfoInputs.cache
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\server\obj\Release\netcoreapp2.0\server.AssemblyInfo.cs
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\server\bin\Release\netcoreapp2.0\server.deps.json
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\server\bin\Release\netcoreapp2.0\server.runtimeconfig.json
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\server\bin\Release\netcoreapp2.0\server.runtimeconfig.dev.json
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\server\bin\Release\netcoreapp2.0\server.dll
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\server\bin\Release\netcoreapp2.0\server.pdb
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\server\obj\Release\netcoreapp2.0\server.dll
+C:\epitech\DOT_cardGames_2017\DOT_cardGames_2017\server\obj\Release\netcoreapp2.0\server.pdb
